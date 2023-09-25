@@ -33,3 +33,5 @@
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=thaymml&repo=thaymml&theme=react)](https://github.com/thaymml/thaymml)
+
+![snake gif](https://github.com/thaymml/thaymml/blob/output/github-contribution-grid-snake.svg)
