@@ -36,4 +36,10 @@
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=thaymml&repo=thaymml&theme=react)](https://github.com/thaymml/thaymml)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaymml}/count.svg" /></p> 
+<br>
+</div>
+
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
