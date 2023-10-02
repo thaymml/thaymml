@@ -1,8 +1,5 @@
-### Olá eu sou a Thayssa 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF33C1&size=35&center=true&vCenter=true&width=1000&lines=HI,+My+name+is+Thayssa+Lima;I'm+19+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development)](https://git.io/typing-svg)
 
-- 🔭 Estou trabalhando com back-end
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me no email: thayssamortari@gmail.com
 
 
 <div>
