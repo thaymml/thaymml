@@ -29,9 +29,7 @@
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue"/>
     </td>
   </tr>
-  </tr>
 </table>
-
 
 <table>
   <tr>
@@ -47,6 +45,9 @@
       <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Apidog-FF4500?style=for-the-badge&logo=apidog&logoColor=white" alt="Apidog"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </td>
   </tr>
 </table>
@@ -56,14 +57,23 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaymml&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thaymml&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+
 ## **Minhas Contribuições**
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thaymml&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaymml/dio-lab-open-source)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thaymml&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thaymml&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thaymml/dio-lab-open-source)
+
+<br><br> <!-- Adiciona espaço entre as seções -->
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaymml}/count.svg" /></p> 
-<br>
+  <img src="https://github-profile-trophy.vercel.app/?username=thaymml&theme=onedark" alt="GitHub Trophies" />
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thaymml}/count.svg" /></p> 
+  <br>
+  
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+
