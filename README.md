@@ -24,7 +24,7 @@
     <td>
       <h3>Bibliotecas e Frameworks</h3>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB alt="Express"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express"/>
     </td>
   </tr>
 </table>
@@ -35,6 +35,7 @@
       <h3>Banco de Dados</h3>
       <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     </td>
     <td>
       <h3>Ferramentas</h3>
