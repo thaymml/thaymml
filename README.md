@@ -72,7 +72,5 @@
 <br><br> 
 
 <div align="center">
-  <p><b>Visitantes</b></p>  
-  <img src="https://profile-counter.glitch.me/{thaymml}/count.svg" />
   <p>✨ Obrigada por visitar meu perfil! ✨</p>
 </div>
