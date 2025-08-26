@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/thayssa-miguel-2aaa83241/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/thaymml" title="GitHub"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:thayssamortari@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://novo-portfolio-tau.vercel.app/" title="Portfólio"><img src="https://img.shields.io/badge/-Portfólio-%23FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
