@@ -48,26 +48,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thaymml&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaymml&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-</p>
-
-
-<h2 align="center">🚀 Minhas Contribuições</h2>
-
-<div align="center">
-  <a href="https://github.com/thaymml/dio-lab-open-source" title="dio-lab-open-source">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thaymml&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-</div>
-
-
 <br><br> 
 
 <div align="center">
